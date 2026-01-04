@@ -4,7 +4,7 @@ A Streamlit app to explore and predict restaurant tips using Ridge Regression on
 
 ## Live Demo
 
-- Deployed app: https://ridge-prediction.streamlit.app/
+- Deployed app: https://ridge-r-prediction.streamlit.app/
 
 ## Preview
 
